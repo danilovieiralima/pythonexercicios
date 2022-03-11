@@ -1,0 +1,14 @@
+CLASSE--> É uma abstração de um elemento natural que contém ações e características
+Ex:
+       CLASSE PESSOA                              CLASSE PESSOA
+       Característica1: Sexo Feminino             atributo1: Sexo Feminino
+       Característica2: 1,75m de altura           atributo2: 1,75m de altura
+       Ação1: Andar                               método1: Andar
+       Ação2: Correr                              método2: Correr
+
+--> Os atributos correspondem ás características e os métodos correspondem as ações
+      MINHA CLASSE
+      +meu_atributo: string
+      +meu_atributo2: string
+      +meu_metodo(): None
+      +meu_metodo2:(num:int, multi:int): int
